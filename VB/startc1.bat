@@ -1,0 +1,1 @@
+VBoxManage startvm "c1" --type headless

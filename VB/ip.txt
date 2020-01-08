@@ -1,0 +1,5 @@
+us2:
+192.168.1.25/admin/tanviet
+
+k1:
+192.168.1.30/root/tanviet

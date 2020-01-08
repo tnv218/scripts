@@ -1,0 +1,12 @@
+choco install winrar
+choco install googlechrome
+choco install git.install
+choco install nodejs.install
+choco install ccleaner
+choco install python
+choco install virtualbox
+choco install vscode
+choco install yarn
+choco install youtube-dl
+choco install googledrive
+choco install foxitreader

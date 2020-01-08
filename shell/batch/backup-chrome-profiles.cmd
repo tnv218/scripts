@@ -1,0 +1,1 @@
+xcopy "C:\Users\sorez\AppData\Local\Google\Chrome\User Data" D:\D:\softs\chrome-profiles

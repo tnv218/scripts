@@ -1,0 +1,1 @@
+copy /Y C:\Windows\System32\drivers\etc\hosts I:\GD\scripts\files

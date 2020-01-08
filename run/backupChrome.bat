@@ -1,0 +1,1 @@
+winrar a G:\chrome-users.rar "C:\Users\phap\AppData\Local\Google\Chrome\User Data"

@@ -1,0 +1,1 @@
+VBoxManage startvm "win7" --type headless
